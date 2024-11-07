@@ -1,2 +1,5 @@
-package koschei.models;public class Deth8 {
+package koschei.models;
+
+public class Deth8 {
+
 }
